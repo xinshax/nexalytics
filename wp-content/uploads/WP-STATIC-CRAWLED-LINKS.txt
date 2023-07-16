@@ -1,5 +1,9 @@
 /
 /2023/07/16/hello-world/
+/nexalytics/
+/nexalytics/2023/
+/nexalytics/2023/07/
+/nexalytics/2023/07/16/
 /nexalytics/2023/07/16/hello-world/
 /nexalytics/sample-page/
 /page/1
@@ -44,11 +48,5 @@
 /wp-content/themes/twentytwentythree\templates\search.html
 /wp-content/themes/twentytwentythree\templates\single.html
 /wp-content/themes/twentytwentythree\theme.json
-/2023/07/16/hello-world/feed/
 /comments/feed/
 /feed/
-/sample-page/feed/
-/wp-admin/
-/wp-includes/blocks/navigation/style.min.css
-/wp-includes/blocks/navigation/view-modal.min.js
-/wp-includes/blocks/navigation/view.min.js
