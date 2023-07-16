@@ -10,6 +10,7 @@
 /?wp_global_styles=wp-global-styles-pub%2farchivo
 /?wp_global_styles=wp-global-styles-pub%2ffreddie
 /?wp_global_styles=wp-global-styles-pub%2fpendant
+/?wp_global_styles=wp-global-styles-twentytwentythree
 /?wp_navigation=navigation
 /?wp_template=home
 /?wp_template=index
